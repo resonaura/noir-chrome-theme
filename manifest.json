@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "🌙 Noir",
+  "version": "1.0",
+  "description": "A sleek black Chrome theme with slightly lighter tabs.",
+  "theme": {
+    "colors": {
+      "frame": [0, 0, 0],
+      "toolbar": [0, 0, 0],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [128, 128, 128],
+      "tab_background": [20, 20, 20],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [255, 255, 255],
+      "button_background": [64, 64, 64]
+    }
+  }
+}
