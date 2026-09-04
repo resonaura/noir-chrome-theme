@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0-blue.svg)](manifest.json)
 [![Manifest](https://img.shields.io/badge/Manifest-v3-green.svg)](manifest.json)
 [![Platform](https://img.shields.io/badge/Platform-Google%20Chrome-4285F4.svg?logo=googlechrome&logoColor=white)](manifest.json)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/resonaura)
 
 A sleek, minimal pitch-black Google Chrome theme with slightly lighter tabs for maximum readability and zero eye strain.
 
